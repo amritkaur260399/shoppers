@@ -4,9 +4,10 @@ import Slider from './Slider'
 
 function Home() {
   return (
-    <div>
+    <div className=''>
 <Navbar/>
 <Slider/>
+
     </div>
   )
 }

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import MenuItems from "./MenuItems";
 
 function Navbar() {
-const [active,setActive]=("");
+const [active,setActive]=useState(false);
 
 const showMenu=()=>{
     setActive(!active)
@@ -19,7 +19,9 @@ const logo=( <svg
        <span className="text-2xl font-bold">SHOPPERS</span>
       </div>
       <nav className="">
-        <div onClick={showMenu}>{listIcon}</div>
+        <div onClick={showMenu}
+        className ="absolute right-6 md:hidden"
+        >{listIcon}</div>
         {" "}
         <ul className= "hidden md:flex gap-8  uppercase  ">
           <Link to={"/"}>
@@ -35,7 +37,7 @@ const logo=( <svg
             <li>Product</li>
           </Link>
         </ul>
-        <MenuItems/>
+        <MenuItems showMenu={showMenu} active={active} />
       </nav>
     </div>
   );
