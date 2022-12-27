@@ -1,0 +1,150 @@
+{
+    "data": [
+        {
+          "id": 1,
+          "image": "/images/westren/wd1.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 1000
+        },
+        {
+          "id": 2,
+          "image": "/images/westren/wd2.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 3,
+          "image": "/images/westren/wd3.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 4,
+          "image": "/images/westren/wd4.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 5,
+          "image": "/images/westren/wd5.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 6,
+          "image": "/images/westren/wd6.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 7,
+          "image": "/images/westren/wd7.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 8,
+          "image": "/images/westren/wd8.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 9,
+          "image": "/images/westren/wd9.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 10,
+          "image": "/images/westren/wd10.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 11,
+          "image": "/images/westren/wd11.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 12,
+          "image": "/images/westren/wd12.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 13,
+          "image": "/images/westren/wd13jpg.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 14,
+          "image": "/images/westren/wd14.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 15,
+          "image": "/images/westren/wd15.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 16,
+          "image": "/images/westren/wd16jpg.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        }
+       
+    
+      ]
+}

@@ -1,0 +1,189 @@
+{
+    "data": [
+     
+        {
+          "id": 1,
+          "image": "/images/shoes/s1.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"blue",
+          "size":7
+        },
+        {
+          "id": 15,
+          "image": "/images/shoes/s15.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":6
+        },
+        {
+          "id": 6,
+          "image": "/images/shoes/s6.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"black",
+          "size":6
+        },
+        {
+          "id": 3,
+          "image": "/images/shoes/s3.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"blue",
+          "size":6
+        },
+       
+        {
+          "id": 5,
+          "image": "/images/shoes/s5.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"black",
+          "size":7
+        },
+        {
+          "id": 13,
+          "image": "/images/shoes/s13.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":8
+        },
+      
+        {
+          "id": 7,
+          "image": "/images/shoes/s7.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"black",
+          "size":8
+        },
+         {
+          "id": 10,
+          "image": "/images/shoes/s10.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000,
+          "colour":"pink",
+          "size":7
+        },
+        {
+          "id": 8,
+          "image": "/images/shoes/s8.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"black",
+          "size":6
+        },
+        {
+          "id": 9,
+          "image": "/images/shoes/s9.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"pink",
+          "size":8
+        },
+       
+      
+        {
+          "id": 4,
+          "image": "/images/shoes/s4.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"blue",
+          "size":7
+        },
+        {
+          "id": 12,
+          "image": "/images/shoes/s12.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"pink",
+          "size":7
+        },
+        
+        {
+          "id": 14,
+          "image": "/images/shoes/s14.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":7
+        },
+        {
+          "id": 11,
+          "image": "/images/shoes/s11.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"pink",
+          "size":6
+        },
+        {
+          "id": 2,
+          "image": "/images/shoes/s2.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"blue",
+          "size":6
+        },
+       
+        {
+          "id": 16,
+          "image": "/images/shoes/s16.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Shoes",
+          "type": "Casual ",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":6
+        }
+       
+    
+      ]
+}

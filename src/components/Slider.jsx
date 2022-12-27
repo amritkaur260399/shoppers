@@ -32,10 +32,10 @@ setTimeout(() => {
 
 
   return (
-    <div className="banner pt-10  w-full bg-right bg-contain bg-no-repeat bg-slate-100    text-center md:text-start">
-     <div className="w-full h-[80vh]">
+    <div className="banner pt-10  w-full  bg-slate-100    text-center ">
+     <div className="w-full h-[70vh] bg-right bg-contain bg-no-repeat">
       
-      <img  className="w-full h-[80vh]"
+      <img  className="w-full h-[70vh]"
       src={featuredProduct[currentIndex]}/></div> 
       <div className="absolute top-1/2 z-10 px-4 flex w-full justify-between">
         <button 
@@ -45,16 +45,16 @@ setTimeout(() => {
          onClick={handleright}
         ><AiOutlineVerticalLeft/></button>
       </div>
-<div className="absolute top-20 left-10 z-20">    
+<div className="absolute top-20 left-10 z-20 md:text-start sm:text-sm">    
 
-  <h1 className="sm:text-4xl text-3xl text-slate-700 font-semibold py-8">
+  <h1 className="sm:text-4xl text-2xl text-slate-700 font-semibold md:py-8 py-4">
         Best Models For Summer 2022
       </h1>
-      <h1 className=" text-6xl sm:text-7xl text-slate-700 font-extrabold">
+      <h1 className=" text-6xl md:text-7xl text-slate-700 font-extrabold">
         looks good with<br></br> 2022 style
       </h1>
       <Link to="/products">
-        <button className=" mt-16 bg-yellow-400 text-slate-800 hover:bg-slate-800 hover:text-white px-5 py-3 text-xl font-semibold transition-colors duration-300">
+        <button className=" mt-10 bg-yellow-400 text-slate-800 hover:bg-slate-800 hover:text-white px-5 py-3 text-xl font-semibold transition-colors duration-300">
           SHOP NOW
         </button>
       </Link></div>

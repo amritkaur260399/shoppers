@@ -1,0 +1,183 @@
+{
+    "data": [
+   
+        {
+          "id": 1,
+          "image": "/images/heels/h1.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"yellow",
+          "size":6
+        },
+        {
+          "id": 2,
+          "image": "/images/heels/h7.jpg",
+          "desc": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"white",
+          "size":8
+        },
+        {
+          "id": 3,
+          "image": "/images/heels/h3.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"white",
+          "size":6
+        },
+        {
+          "id": 4,
+          "image": "/images/heels/h4.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"black",
+          "size":6
+        },
+        {
+          "id": 5,
+          "image": "/images/heels/h5.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"black",
+          "size":8
+        },
+        {
+          "id": 6,
+          "image": "/images/heels/h6.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":6
+        },
+        {
+          "id": 7,
+          "image": "/images/heels/h2.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"white",
+          "size":7
+        },
+        {
+          "id": 8,
+          "image": "/images/heels/h8.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"black",
+          "size":7
+        },
+        {
+          "id": 9,
+          "image": "/images/heels/h9.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":8
+        },
+        {
+          "id": 10,
+          "image": "/images/heels/h10.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"yellow",
+          "size":6
+        },
+        {
+          "id": 11,
+          "image": "/images/heels/h11.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":7
+        },
+        {
+          "id": 12,
+          "image": "/images/heels/h12.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"red",
+          "size":7
+        },
+        {
+          "id": 13,
+          "image": "/images/heels/h13.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"white",
+          "size":8
+        },
+        {
+          "id": 14,
+          "image": "/images/heels/h14.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 2000,
+          "colour":"yellow",
+          "size":7
+        },
+        {
+          "id": 15,
+          "image": "/images/heels/h15.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 20002000,
+          "colour":"yellow",
+          "size":6
+        },
+        {
+          "id": 16,
+          "image": "/images/heels/h16.jpg",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "title": "Heels",
+          "type": "Official",
+          "category": "Footwear",
+          "price": 20002000,
+          "colour":"yellow",
+          "size":8
+        }
+       
+    
+      ]
+}

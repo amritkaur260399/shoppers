@@ -1,0 +1,150 @@
+{
+    "data": [
+        {
+          "id": 1,
+          "image": "/images/tradional/td1.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 2,
+          "image": "/images/tradional/td2.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 3,
+          "image": "/images/tradional/td3.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 4,
+          "image": "/images/tradional/td4.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 5,
+          "image": "/images/tradional/td5.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 6,
+          "image": "/images/tradional/td6.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 7,
+          "image": "/images/tradional/td7.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 8,
+          "image": "/images/tradional/td8.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 9,
+          "image": "/images/tradional/td9.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 10,
+          "image": "/images/tradional/td10.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 11,
+          "image": "/images/tradional/td11.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 12,
+          "image": "/images/tradional/td12.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 13,
+          "image": "/images/tradional/td13.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 14,
+          "image": "/images/tradional/td14.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 15,
+          "image": "/images/tradional/td15.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        },
+        {
+          "id": 16,
+          "image": "/images/tradional/td16.jpg",
+          "title": "Dress",
+          "desc": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga", 
+          "type": "Casual and official",
+          "category": "Full Body Wear",
+          "price": 2000
+        }
+       
+    
+      ]
+}

@@ -1,12 +1,14 @@
 import React from 'react'
-import Navbar  from './Navbar'
+import FeaturedProduct from './FeaturedProduct'
+
 import Slider from './Slider'
+
 
 function Home() {
   return (
-    <div className=''>
-<Navbar/>
+    <div className=' max-w-screen h-full'>
 <Slider/>
+<FeaturedProduct/>
 
     </div>
   )

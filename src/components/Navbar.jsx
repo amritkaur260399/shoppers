@@ -1,43 +1,80 @@
-import React ,{useState} from "react";
+import React, { useState } from "react";
 
 import { Link } from "react-router-dom";
 import MenuItems from "./MenuItems";
+import { basket } from "../icons";
+import { logo } from "../icons";
+import { listIcon } from "../icons";
+
+
 
 function Navbar() {
-const [active,setActive]=useState(false);
+  const [active, setActive] = useState(false);
+  const [activemenu, setActiveMenu] = useState(false);
 
-const showMenu=()=>{
-    setActive(!active)
-}
-const logo=( <svg
-    height={30} width={40} fill="skyblue" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M0 336c0 79.5 64.5 144 144 144H512c70.7 0 128-57.3 128-128c0-61.9-44-113.6-102.4-125.4c4.1-10.7 6.4-22.4 6.4-34.6c0-53-43-96-96-96c-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32C167.6 32 96 103.6 96 192c0 2.7 .1 5.4 .2 8.1C40.2 219.8 0 273.2 0 336z"/></svg>)
-    const listIcon=(<svg  height={30} width={40 } fill="white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg>)
+  const showMenu = () => {
+    setActive(!active);
+  };
+  const showdropmenu = () => {
+    setActiveMenu(!activemenu);
+  };
+ 
+
   return (
-    <div className=" fixed w-full text-white bg-black flex justify-between p-6">
+    <div className=" z-50 fixed w-full text-white bg-black flex justify-between p-6">
       <div className="logo flex">
         {logo}
-       <span className="text-2xl font-bold">SHOPPERS</span>
+        <span className="text-2xl font-bold">SHOPPERS</span>
       </div>
       <nav className="">
-        <div onClick={showMenu}
-        className ="absolute right-6 md:hidden"
-        >{listIcon}</div>
-        {" "}
-        <ul className= "hidden md:flex gap-8  uppercase  ">
+        <div onClick={showMenu} className="absolute right-6 md:hidden">
+          {listIcon}
+        </div>{" "}
+        <ul className="hidden md:flex gap-8  uppercase  ">
           <Link to={"/"}>
-            <li>Home</li>
+            <li className="font-bold">Home</li>
           </Link>
           <Link to={"/about"}>
-            <li>About</li>
+            <li className="font-bold">About</li>
           </Link>
           <Link to={"/contact"}>
-            <li>Contact</li>
+            <li className="font-bold ">Contact</li>
           </Link>
-          <Link to={"/products"}>
-            <li>Product</li>
+
+          <li onClick={showdropmenu} className="font-bold cursor-pointer ">
+            Product
+            {activemenu == true ? (
+              <ul className="fixed bg-black/50  py-6">
+               
+                <Link to={"/tradionaldress"}>
+                  <li className="p-4 ">PARTY DRESS</li>
+                </Link>
+                <Link to={"/westrendress"}>
+                  <li className="p-4 ">WESTREN DRESS</li>
+                </Link>
+                <Link to={"/heels"}>
+                  <li className="p-4 ">HEELS</li>
+                </Link>
+
+                <Link to={"/shoes"}>
+                  <li className="p-4 ">SHOES</li>
+                </Link>
+              </ul>
+            ) : (
+              <div></div>
+            )}
+          </li>
+
+          <Link to={"/cart"}>
+            <li>{basket}</li>
           </Link>
         </ul>
-        <MenuItems showMenu={showMenu} active={active} />
+        <MenuItems
+          showMenu={showMenu}
+          active={active}
+          activemenu={activemenu}
+          showdropmenu={showdropmenu}
+        />
       </nav>
     </div>
   );
